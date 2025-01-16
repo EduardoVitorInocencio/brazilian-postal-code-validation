@@ -135,7 +135,8 @@ Validate and enrich Brazilian postal codes (CEP) using an external API, handle l
 
 ## Contact
 For questions or assistance, please contact:
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
+- **Name**: Eduardo Inocencio
+- **Email**: prof.eduardoinocencio@gmail.com
+- **GitHub**: https://github.com/EduardoVitorInocencio
+  
 
